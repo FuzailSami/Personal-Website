@@ -100,7 +100,7 @@ window.addEventListener('scroll', () => {
 
 // Resume download functionality
 // Set the path to your actual resume PDF file
-const resumeUrl = 'assets/Fuzail Sami Resume.pdf'; // Place your PDF in the assets folder
+const resumeUrl = 'assets/Fuzail_Sami_Resume.pdf'; // Place your PDF in the assets folder
 
 if (downloadResumeBtn) {
     downloadResumeBtn.addEventListener('click', (e) => {
